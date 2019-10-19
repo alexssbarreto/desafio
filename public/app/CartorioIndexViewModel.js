@@ -8,6 +8,13 @@ $(document).ready(function() {
 
         $("#inputId").val('');
         $("#inputNome").val('');
+        $("#inputRazao").val('');
+        $("#inputTabeliao").val('');
+        $("#inputEndereco").val('');
+        $("#inputBairro").val('');
+        $("#inputCidade").val('');
+        $("#inputUf").val('');
+        $("#inputCep").val('');
         $("#inputTelefone").val('');
         $("#inputEmail").val('');
     });

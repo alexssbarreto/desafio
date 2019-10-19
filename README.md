@@ -17,7 +17,7 @@ Recursos utilizados
 Instalação
 ------------
 
-Necessário criar um vHost apontando o documentoRoot para o diretório public/;
+Criar um vHost apontando o documentoRoot para o diretório public/;
 
 Criar o banco de dados (/data/db-desafio.sql);
 
