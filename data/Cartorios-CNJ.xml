@@ -1,0 +1,492 @@
+<cartorios>
+	<cartorio>
+		<nome>1º Tabelionato de Notas e Registro de Imoveis</nome>
+		<razao>1º Tabelionato de Notas e Registro de Imoveis</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00002253000102</documento>
+		<cep>75650000</cep>
+		<endereco>Pc. Prof. Jose Candido Nr 709</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Morrinhos</cidade>
+		<uf>GO</uf>
+		<tabeliao>Luciano Carneiro do Vale</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>2º Tabelionato de Notas, Protesto e Oficio do Registro Tit., e Documentos e Pess., Juridicas</nome>
+		<razao>2º Tabelionato de Notas, Protesto e Oficio do Registro Tit., e Documentos e Pess., Juridicas</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00003152000148</documento>
+		<cep>76630000</cep>
+		<endereco>Rua Luis Antonio Nr 62</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Itaberai</cidade>
+		<uf>GO</uf>
+		<tabeliao>Wiliam Gomes de Morais</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro de Imoveis e 1º Tabelionato de Notas</nome>
+		<razao>Oficio de Registro de Imoveis e 1º Tabelionato de Notas</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00003194000189</documento>
+		<cep>76630000</cep>
+		<endereco>Rua Sr. dos Passos Nr 62</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Itaberai</cidade>
+		<uf>GO</uf>
+		<tabeliao>Yacatan Silva Pinto</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>1º Tabelionato de Notas e Oficio do Registro de Imoveis</nome>
+		<razao>1º Tabelionato de Notas e Oficio do Registro de Imoveis</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00004317000104</documento>
+		<cep>76240000</cep>
+		<endereco>Rua Dagmar Bueno 225</endereco>
+		<bairro>Setor Aeroporto</bairro>
+		<cidade>Aragarças</cidade>
+		<uf>GO</uf>
+		<tabeliao>ELMIRO SOUZA LUZ</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>10 Tabelionato de Notas</nome>
+		<razao>10 Tabelionato de Notas</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00004721000170</documento>
+		<cep>60325720</cep>
+		<endereco>Rua Cassimiro Montenegro, Nº 50</endereco>
+		<bairro>Monte Castelo</bairro>
+		<cidade>Fortaleza</cidade>
+		<uf>CE</uf>
+		<tabeliao>Maria de Fatima Botelho Moreira de Deus</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Cartorio do 1º Oficio e Anexos</nome>
+		<razao>Cartorio do 1º Oficio e Anexos</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00005397000104</documento>
+		<cep>77750000</cep>
+		<endereco>Av. Brasil Nr 506</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Couto de Magalhaes</cidade>
+		<uf>TO</uf>
+		<tabeliao>Thereza Lima Vieira</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro Civil das Pessoas Naturais</nome>
+		<razao>Oficio de Registro Civil das Pessoas Naturais</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00005413000169</documento>
+		<cep>77460000</cep>
+		<endereco>Rua 12 S/nº Qd. 10 Lt. 09</endereco>
+		<bairro>Setor Sul</bairro>
+		<cidade>Peixe</cidade>
+		<uf>TO</uf>
+		<tabeliao>Aureny Carlos Ramalho</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>1º Tabelionato de Notas e Registro de Imoveis</nome>
+		<razao>1º Tabelionato de Notas e Registro de Imoveis</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00005421000105</documento>
+		<cep>77725000</cep>
+		<endereco>Av. Costa e Silva  Nr 032</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Colmeia</cidade>
+		<uf>TO</uf>
+		<tabeliao>Neuza Maria Costa e Silva</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio do Registro Civil e Tab. de Notas Prot. e Registro de Imoveis</nome>
+		<razao>Oficio do Registro Civil e Tab. de Notas Prot. e Registro de Imoveis</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00007336000186</documento>
+		<cep>76165000</cep>
+		<endereco>Rua Augusto Pereira Nr 326</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Americano do Brasil</cidade>
+		<uf>GO</uf>
+		<tabeliao>Moema Borges Leite</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio do Registro Civil das Pessoas Naturais 1º Subdistrito</nome>
+		<razao>Oficio do Registro Civil das Pessoas Naturais 1º Subdistrito</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00034831000184</documento>
+		<cep>11013150</cep>
+		<endereco>Rua Amador Bueno Nr 203</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Santos</cidade>
+		<uf>SP</uf>
+		<tabeliao>Nelson Hidalgo Molero</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro Civil e Tabelionato de Notas - 2ª Circunscricao</nome>
+		<razao>Oficio de Registro Civil e Tabelionato de Notas - 2ª Circunscricao</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00045245000135</documento>
+		<cep>75020080</cep>
+		<endereco>Rua Coronel Batista Nr 111</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Anapolis</cidade>
+		<uf>GO</uf>
+		<tabeliao>Gislane Divina Costa</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro Civil e Tabelionato de Notas</nome>
+		<razao>Oficio de Registro Civil e Tabelionato de Notas</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00051573000144</documento>
+		<cep>77725000</cep>
+		<endereco>Av. Longuinho Vieira Junior Nr  600 Ed. do Forum</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Colmeia</cidade>
+		<uf>TO</uf>
+		<tabeliao>Isan Rodrigues Silva</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>2º Tabelionato de Notas</nome>
+		<razao>2º Tabelionato de Notas</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00064950000180</documento>
+		<cep>77020030</cep>
+		<endereco>Qd. 104 Sul, Av. Ns-2, Cj. 3, Lt 01, Lj.01</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Palmas</cidade>
+		<uf>TO</uf>
+		<tabeliao>Sagramor Angela Piccoli Dall'agnol</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Segundo Servico Notarial e Registro Civil</nome>
+		<razao>Segundo Servico Notarial e Registro Civil</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00071114000122</documento>
+		<cep>78445000</cep>
+		<endereco>Av. Amos Bernardino Zanchet Nr 1000</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Nova Maringa</cidade>
+		<uf>MT</uf>
+		<tabeliao>Wanderley Luis Kuhn</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Tabelionato de Protesto de Titulos</nome>
+		<razao>Tabelionato de Protesto de Titulos</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00073128000185</documento>
+		<cep>38700052</cep>
+		<endereco>Rua Jose de Santana,  Nr 454 - Lj 207</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Patos de Minas</cidade>
+		<uf>MG</uf>
+		<tabeliao>Jorge Artur Pena Fernandes</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio do Registroi Civil Etabelionato de Notas - Cordeiro</nome>
+		<razao>Oficio do Registroi Civil Etabelionato de Notas - Cordeiro</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00097742000187</documento>
+		<cep>35300972</cep>
+		<endereco>Praca dos Esportes,  Nr 50</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Caratinga</cidade>
+		<uf>MG</uf>
+		<tabeliao>Jose Cordeiro de Oliveira</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro de Imoveis</nome>
+		<razao>Oficio de Registro de Imoveis</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00110286000168</documento>
+		<cep>87360000</cep>
+		<endereco>Rua Jose Geraldo de Souza Nr 822</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Goioere</cidade>
+		<uf>PR</uf>
+		<tabeliao>Celso Gamborgi Branco</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Cartorio de Distribuicao</nome>
+		<razao>Cartorio de Distribuicao</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00111597000141</documento>
+		<cep>78575000</cep>
+		<endereco>Rua Anita Garibaldi S/n</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Juara</cidade>
+		<uf>MT</uf>
+		<tabeliao>Dilque Nunes</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro Civil das Pessoas Naturais</nome>
+		<razao>Oficio de Registro Civil das Pessoas Naturais</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00115234000184</documento>
+		<cep>36700000</cep>
+		<endereco>Rua Pde.julio, Nr 373  - Sl - 7  Ed. Rotary</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Leopoldina</cidade>
+		<uf>MG</uf>
+		<tabeliao>Maria Aparecida Fajardo Fonseca Ribeiro</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Tabelionato de Notas e Protesto</nome>
+		<razao>Tabelionato de Notas e Protesto</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00178003000110</documento>
+		<cep>84900000</cep>
+		<endereco>Rua Parana N° 51</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Ibaiti</cidade>
+		<uf>PR</uf>
+		<tabeliao>Eliane Gomes Correa Negrao</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio do Registro Civil das Pessoas Naturais</nome>
+		<razao>Oficio do Registro Civil das Pessoas Naturais</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00179036000184</documento>
+		<cep>68706000</cep>
+		<endereco>Av.magalhaes Barata, S/n</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Capanema</cidade>
+		<uf>PA</uf>
+		<tabeliao>Juvenal Batista de Sousa Maria</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Registros de Imoveis, Titulos e Documentos de Claudia</nome>
+		<razao>Registros de Imoveis, Titulos e Documentos de Claudia</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00179549000195</documento>
+		<cep>78540000</cep>
+		<endereco>Rua Ferreira Mendes, Nr 1065-a</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Claudia</cidade>
+		<uf>MT</uf>
+		<tabeliao>Ary Garcia Filho</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio do Registro Civil e Tabelionato de Notas</nome>
+		<razao>Oficio do Registro Civil e Tabelionato de Notas</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00246404000160</documento>
+		<cep>35115000</cep>
+		<endereco>Rua Rio de Janeiro Nr 293</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Marilac</cidade>
+		<uf>MG</uf>
+		<tabeliao>Jose Simoes Sobrinho</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Cartorio de Notas e Registro Civil de Venda Nova do Imigrante</nome>
+		<razao>Cartorio de Notas e Registro Civil de Venda Nova do Imigrante</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00258643000130</documento>
+		<cep>29375000</cep>
+		<endereco>Av. Domingos Perim, 344</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Venda Nova do Imigrante</cidade>
+		<uf>ES</uf>
+		<tabeliao>Noemea Zandonade Feitoza</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>1º Tabelionato de Protesto e Oficio do Registro de Imoveis</nome>
+		<razao>1º Tabelionato de Protesto e Oficio do Registro de Imoveis</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00302120000143</documento>
+		<cep>29375000</cep>
+		<endereco>Av. Domingos Perim Nr 234 - Sala 102/103</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Venda Nova do Imigrante</cidade>
+		<uf>ES</uf>
+		<tabeliao>Eleuterio Conrado Paste</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro Civil das Pessoas Naturais</nome>
+		<razao>Oficio de Registro Civil das Pessoas Naturais</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00327427000107</documento>
+		<cep>36260000</cep>
+		<endereco>Praca. Dr. Miguel Batista Vieira Nr  131</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Alto Rio Doce</cidade>
+		<uf>MG</uf>
+		<tabeliao>Roberto Coelho de Magalhaes</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Tabelionato de Protestos de Titulos de Dividas</nome>
+		<razao>Tabelionato de Protestos de Titulos de Dividas</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00333208000122</documento>
+		<cep>35300034</cep>
+		<endereco>Praca Getulio Vargas,  Nr 56 Sl 104/105</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Caratinga</cidade>
+		<uf>MG</uf>
+		<tabeliao>Leda Guido Lima de Medeiros</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio do Registro de Imoveis</nome>
+		<razao>Oficio do Registro de Imoveis</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00338524000197</documento>
+		<cep>38660000</cep>
+		<endereco>Rua Bahia, 1.018</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Buritis</cidade>
+		<uf>MG</uf>
+		<tabeliao>Joao Alberto Andre Silva</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>4º Oficio de Registro de Titulos e Documentos</nome>
+		<razao>4º Oficio de Registro de Titulos e Documentos</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00346719000189</documento>
+		<cep>01013001</cep>
+		<endereco>Rua 15 de Novembro Nr 251 - 2°andar</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Sao Paulo</cidade>
+		<uf>SP</uf>
+		<tabeliao>Graciano Pinheiro de Siqueira</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro Civil das Pessoas Naturais 1º Subdistrito</nome>
+		<razao>Oficio de Registro Civil das Pessoas Naturais 1º Subdistrito</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00348885000114</documento>
+		<cep>13024000</cep>
+		<endereco>Av Coronel Silva Teles 123</endereco>
+		<bairro>Cambui</bairro>
+		<cidade>Campinas</cidade>
+		<uf>SP</uf>
+		<tabeliao>Luis Antonio Medeiros Souza</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>1º Tabelionato de Protesto de Titulos</nome>
+		<razao>1º Tabelionato de Protesto de Titulos</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00384715000195</documento>
+		<cep>86020110</cep>
+		<endereco>Rua Hugo Cabral, Nr 710 - Sobreloja</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Londrina</cidade>
+		<uf>PR</uf>
+		<tabeliao>Marcos Medeiros de Albuquerque</tabeliao>
+		<ativo>1</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>2º Cartorio de Notas e Registro Civil</nome>
+		<razao>2º Cartorio de Notas e Registro Civil</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00385448000170</documento>
+		<cep>79780000</cep>
+		<endereco>Rua Dourado Nr 464</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Bataguassu</cidade>
+		<uf>MS</uf>
+		<tabeliao>Joao Palma Villas Boas Neto</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Cartorio Maria Madalena Heringer Chamon Barros Quintao</nome>
+		<razao>Cartorio Maria Madalena Heringer Chamon Barros Quintao</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00385463000119</documento>
+		<cep>35160034</cep>
+		<endereco>Rua Belo Horizonte Nr 243</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Ipatinga</cidade>
+		<uf>MG</uf>
+		<tabeliao>Maria Madalena Heringer Chamon Barros Quintao</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio de Registro Civil das Pessoas Naturais do 3º Subdistrito</nome>
+		<razao>Oficio de Registro Civil das Pessoas Naturais do 3º Subdistrito</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00393441000109</documento>
+		<cep>13036120</cep>
+		<endereco>Av. das Amoreiras,  Nr 1859</endereco>
+		<bairro>Sao Bernardo</bairro>
+		<cidade>Campinas</cidade>
+		<uf>SP</uf>
+		<tabeliao>Alvaro Ernesto de Moraes Silveira</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+	<cartorio>
+		<nome>Oficio do Registro Civil e Tabelionato de Notas - Dom Modesto</nome>
+		<razao>Oficio do Registro Civil e Tabelionato de Notas - Dom Modesto</razao>
+		<tipo_documento>2</tipo_documento>
+		<documento>00398627000142</documento>
+		<cep>35300078</cep>
+		<endereco>Rua Princesa Isabel, 16 - C Vila Paulo Afonso</endereco>
+		<bairro>Centro</bairro>
+		<cidade>Caratinga</cidade>
+		<uf>MG</uf>
+		<tabeliao>Luciana Andrea Lopes</tabeliao>
+		<ativo>0</ativo>
+	</cartorio>
+
+</cartorios>

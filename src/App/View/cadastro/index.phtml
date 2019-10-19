@@ -1,0 +1,64 @@
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <div class="d-sm-flex mb-3">
+                    <div class="col-md-8">
+                        <h1>Cartórios</h1>
+                    </div>
+
+                    <div class="col-md-4 text-right">
+                        <button class="btn btn-primary" data-toggle="modal" id="btnImportar" data-target="#modalImportarCartorio">Importar</button>
+                        <button class="btn btn-primary" data-toggle="modal" id="btnAdicionar" data-target="#modalFormularioCartorio">Adicionar</button>
+                    </div>
+                </div>
+
+                <table class="table table-responsive table-hover tableCartorios">
+                    <thead>
+                    <tr>
+                        <th width="1%">Id</th>
+                        <th>Nome</th>
+                        <th>Tabelião</th>
+                        <th width="15%">Telefone</th>
+                        <th width="15%">E-mail</th>
+                        <th width="15%">Ação</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <?php
+                    /** @var \App\Dao\PojoCartorio $row */
+                    foreach ($params['rowSet'] as $row): ?>
+                        <tr class="trRow">
+                            <td><?= $row->getId() ?></td>
+                            <td><?= $row->getNome() ?></td>
+                            <td><?= $row->getTabeliao() ?></td>
+                            <td><?= $row->getTelefone() ?></td>
+                            <td><?= $row->getEmail() ?></td>
+                            <td>
+                                <button class="btn btn-sm btn-primary text-white btnEditar"
+                                        data-id="<?= $row->getId() ?>"
+                                        data-toggle="tooltip" data-placement="top"
+                                        title="Editar"><i class="mdi mdi-pencil-outline"></i>
+                                </button>
+                                <button class="btn btn-sm btn-danger text-white btnExcluir"
+                                        data-id="<?= $row->getId() ?>"
+                                        data-toggle="tooltip" data-placement="top"
+                                        title="Excluir"><i class="mdi mdi-delete"></i>
+                                </button>
+                            </td>
+                        </tr>
+                    <?php endforeach;?>
+                    <?php if (!count($params['rowSet'])) : ?>
+                    <tr>
+                        <td colspan="6">Nenhum registro</td>
+                    </tr>
+                    <?php endif; ?>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<?php include(__DIR__.'/../partial/modal-formulario-cartorio.phtml'); ?>
+<?php include(__DIR__.'/../partial/modal-importar-cartorio.phtml'); ?>

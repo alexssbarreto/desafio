@@ -1,0 +1,75 @@
+<!-- Modal de CRUD Cartório -->
+<div class="modal fade" id="modalFormularioCartorio" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <form id="formCartorio" name="formCartorio" enctype="multipart/form-data" method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Cartório</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-12 form-group">
+                            <label>Nome</label>
+                            <input type="text" id="inputNome" name="nome" value="" class="form-control" />
+                        </div>
+
+                        <div class="col-md-12 form-group">
+                            <label>Razão</label>
+                            <input type="text" id="inputRazao" name="razao" value="" class="form-control" />
+                        </div>
+
+                        <div class="col-md-12 form-group">
+                            <label>Tabelião</label>
+                            <input type="text" id="inputTabeliao" name="tabeliao" value="" class="form-control" />
+                        </div>
+
+                        <div class="col-md-12 form-group">
+                            <label>Endereço</label>
+                            <input type="text" id="inputEndereco" name="endereco" value="" class="form-control" />
+                        </div>
+
+                        <div class="col-md-12 form-group">
+                            <label>Bairro</label>
+                            <input type="text" id="inputBairro" name="bairro" value="" class="form-control" />
+                        </div>
+
+                        <div class="col-md-8 form-group">
+                            <label>Cidade</label>
+                            <input type="text" id="inputCidade" name="cidade" value="" class="form-control" />
+                        </div>
+                        <div class="col-md-4 form-group">
+                            <label>UF</label>
+                            <input type="text" id="inputUf" name="uf" value="" class="form-control" />
+                        </div>
+
+                        <div class="col-md-12 form-group">
+                            <label>CEP</label>
+                            <input type="text" id="inputCep" name="cep" value="" class="form-control cep" />
+                        </div>
+
+                        <div class="col-md-12 form-group">
+                            <label>Telefone</label>
+                            <input type="text" id="inputTelefone" name="telefone" value="" class="form-control telefone" />
+                        </div>
+
+                        <div class="col-md-12 form-group">
+                            <label>E-mail</label>
+                            <input type="text" id="inputEmail" name="email" value="" class="form-control" />
+                        </div>
+
+                        <input type="hidden" id="inputId" name="id" value="" class="form-control" />
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                    <button type="submit" class="btn btn-primary">Salvar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

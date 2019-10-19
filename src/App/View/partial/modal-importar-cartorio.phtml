@@ -1,0 +1,28 @@
+<!-- Modal de Importação de Dados -->
+<div class="modal fade" id="modalImportarCartorio" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form id="formImportarDados" name="formCartorio" enctype="multipart/form-data" method="post" action="/cadastro/importar">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Importação de Dados</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="input-group mb-3">
+                        <div class="custom-file">
+                            <input type="file" name="importarFile" class="custom-file-input" id="inputFileImportar" accept="application/xml">
+                            <label class="custom-file-label" for="inputFileImportar">Localizar Arquivo</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                    <button type="submit" class="btn btn-primary">Importar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
