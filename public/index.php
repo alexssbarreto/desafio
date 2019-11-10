@@ -6,12 +6,6 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing;
 
-spl_autoload_register(function ($className) {
-    $className = str_replace('\\', '/', $className);
-
-    include_once __DIR__ . '/../src/' . $className . '.php';
-});
-
 $request = Request::createFromGlobals();
 $routes = include __DIR__ . '/../src/App/routes.php';
 
